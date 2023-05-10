@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    margin: 0px;
+}
+input{
+    width: 80%;
+    padding: 8px;
+}
+button{
+    width: 10%;
+}
+Canvas , #Canvas{
+    border: 2px solid black;
+}
